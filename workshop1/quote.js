@@ -43,7 +43,7 @@ q.innerHTML += "<br><br><br>";
 var is = ["is", "is not", "is like", "includes", "excludes", "is beyond",
 	  "extends", "encodes", "represents", "signifies", "consists of"];
 
-for (var i = 0; i < is.length; i = i + 1){
+for (var i = 0; i < is.length; i = i + 2){
     q.innerHTML += "Code " + is[i] + " language. <br>";
     q.innerHTML += "Language " + is[i] + " code. <br>";
 }
