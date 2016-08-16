@@ -4,7 +4,7 @@
  * L&T quote generator
  */
 
-var things = ["Music", "Night Club Owner", "Dance", "Teacher", "Math", "Architecture"];
+var things = ["Sad Man", "Night Club Owner", "Unknown", "Teacher", "Body Shots", "Architecture"];
 var programmers = ["musician", "Sugar Daddy", "choreographer", "teacher", "mathematician", "architect"]
 var castles = ["museums", "Steak Strip House", "cities"]
 var exertions = ["effort", "achieve", "struggle", "toil", "sadnessr", "unachieved", "labor"];
