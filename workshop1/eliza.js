@@ -189,10 +189,8 @@ var rules = {
     "Do you believe I don't ~y ?",
     "Perhaps I will ~y in good time",
   ],
-  "~*x yes ~*y": [
-    "You seem quite positive",
-    "You are sure?",
-    "I understand",
+  "~*x Jon Snow ~*y": [
+    "You know nothing, Jon Snow",
   ],
   "~*x someone ~*y": [
     "Can you be more specific?",
